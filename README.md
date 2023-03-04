@@ -2,7 +2,7 @@
 
 It is a simple true-false quiz game built using Python. 
 
-You can change or add questions in data.py file.
+You can add or modify questions in data.py file.
 
 ## Installation
 
